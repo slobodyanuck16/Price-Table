@@ -16,7 +16,8 @@
     height: 770px;
     background-color: #334247;
     box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.087466);
-    margin: auto 15px auto 0;
+    margin: 0;
+    margin-right: 15px;
     display: flex;
     flex-direction: column;
     overflow: hidden;
@@ -83,7 +84,7 @@
     }
     &__order-btn {
         width: 154px;
-        height: 40px;
+        height: 41px;
         background-color: #5BB189;
         border-radius: 20px;
         text-align: center;
