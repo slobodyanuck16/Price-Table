@@ -85,13 +85,11 @@
 }
 .price-card__order-btn {
   width: 154px;
-  height: 41px;
+  height: 40px;
   background-color: #5BB189;
   border-radius: 20px;
   text-align: center;
-  margin: auto;
-  margin-top: 36px;
-  margin-bottom: 42px;
+  margin: 36px auto 42px auto;
   outline: none;
   border: none;
   font-size: 14px;
