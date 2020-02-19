@@ -93,17 +93,18 @@
   margin-right: 21px;
 }
 .price-card__order-btn {
+  font-size: 15px;
+  line-height: 17px;
+  color: #fff;
+  font-weight: 300;
   width: 155px;
   height: 40px;
   background-color: #5BB189;
   border-radius: 20px;
   text-align: center;
-  margin: 36px auto 42px auto;
+  margin: 37px auto 42px auto;
   outline: none;
   border: none;
-  font-size: 15px;
-  line-height: 17px;
-  color: #fff;
 }
 
 .second {
@@ -112,18 +113,16 @@
 
 .price-card.second-card {
   margin: 0;
-  margin-top: 15px;
-  margin-bottom: 15px;
 }
 
 .second-title {
   width: 164px;
-  height: 64px;
+  height: 65px;
 }
 
 .third-title {
   width: 176px;
-  height: 64px;
+  height: 65px;
 }
 
 .third {
