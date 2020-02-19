@@ -110,6 +110,12 @@
   background-color: #3A6BA5;
 }
 
+.price-card.second-card {
+  margin: 0;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
 .second-title {
   width: 164px;
   height: 64px;
